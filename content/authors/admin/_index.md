@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Marcus Mann
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Sociology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Purdue University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Political Sociology
+- Sociology of Knowledge
+- Computational Social Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Sociology
+    institution: Duke University
+    year: 2019
+  - course: MA in Sociology
+    institution: Duke University
+    year: 2017
+  - course: MA in Religious Studies
+    institution: Duke University
+    year: 2013
+  - course: BA in English Studies
+    institution: University of Massachusetts - Amherst
     year: 2008
 
 # Social/Academic Networking
@@ -44,16 +47,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:mannml@purdue.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MannMarcus
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=mB5tnEYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/marcone84
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/0B_ku23NIFyD3UnNKbFRUbmdLUHc/view
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Marcus Mann is an assistant professor of sociology at Purdue University. His overarching interest is in how different and sometimes conflicting cultural knowledge authorities affect individuals' perceptions of science, politics, religion, and reality more generally. He has studied this general question in the context of atheist social movements, polarization in political media, and attitudes toward science and scientists. Currently he is working on several projects related to political media diets and susceptibility to political disinformation.  
