@@ -1,7 +1,7 @@
 ---
 title: "Review Essay on The New Atheist Novel: Fiction, Philosophy, and Polemic after 9/11 by Arthur Bradley & Andrew Tate"
 date: 2015-01-01
-publishDate: 2020-01-03T21:29:50.622328Z
+publishDate: 2020-02-03T21:37:00.907850Z
 authors: ["Marcus Mann"]
 publication_types: ["2"]
 abstract: ""
