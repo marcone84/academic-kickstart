@@ -10,6 +10,8 @@ weight = 60  # Order that this section will appear.
 title = "Pathways to Radicalization"
 subtitle = "Making a Sankey Network of Far-right Radicalization self-reports"
 
+bcbcbcbcbcbcbcbcbcbc
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
