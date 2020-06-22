@@ -10,7 +10,9 @@ weight = 60  # Order that this section will appear.
 title = "Pathways to Radicalization"
 subtitle = "Making a Sankey Network of Far-right Radicalization self-reports"
 
-bcbcbcbcbcbcbcbcbcbc
+```{r, echo=FALSE}
+plot(DS_sankey_graph)
+```
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
