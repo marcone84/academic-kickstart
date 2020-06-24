@@ -8,7 +8,7 @@ active = true # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Current Work"
-subtitle = "Notes, Data Viz, and other Miscellany"
+subtitle = "Notes, data viz, and other miscellany"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
