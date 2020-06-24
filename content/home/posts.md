@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Pathways to Radicalization"
-subtitle = "Making a Sankey Network of Far-right Radicalization self-reports"
+title = "Current Work"
+subtitle = "Notes, Data Viz, and other Miscellany"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

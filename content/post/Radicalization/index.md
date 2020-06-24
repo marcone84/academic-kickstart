@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Radicalization"
+title: "Sankey Networks of Far-right Radicalization Pathways"
 subtitle: "Mapping Radicalization Pathways"
 summary: ""
 authors: [Marcus Mann]
@@ -9,7 +9,7 @@ tags: []
 categories: []
 date: 2020-06-22T16:48:17-04:00
 lastmod: 2020-06-22T16:48:17-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
