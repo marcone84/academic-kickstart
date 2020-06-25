@@ -6,17 +6,17 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
   
 [[main]]
   name = "Current Work"
   url = "#posts"
-  weight = 20
+  weight = 2
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 30
+  weight = 3
   
 
 
