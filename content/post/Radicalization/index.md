@@ -30,10 +30,10 @@ projects: []
  gallery_item:
  - album: gallery
    image: ds_sankey.html
-   caption: A caption
+   caption: testing
  - album: gallery
    image: file:///Users/marcusmann/My_Website/static/img/ds_sankey.html
-   caption: Another caption
+   caption: testing 2
 ---
 
 {{< gallery >}}
