@@ -26,15 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
- gallery_item:
- - album: gallery
-   image: ds_sankey.html
-   caption: testing
- - album: gallery
-   image: file:///Users/marcusmann/My_Website/static/img/ds_sankey.html
-   caption: testing 2
 ---
 
-{{< gallery >}}
+
 
