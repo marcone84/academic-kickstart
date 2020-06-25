@@ -7,11 +7,18 @@
   name = "Home"
   url = "#about"
   weight = 10
+  
+[[main]]
+  name = "Current Work"
+  url = "#posts"
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#featured"
   weight = 40
+  
+
 
 
 # Link to a PDF of your resume/CV from the menu.
