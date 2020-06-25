@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Marcus Mann is an assistant professor of sociology at Purdue University. His overarching interest is in how different and sometimes conflicting cultural knowledge authorities affect individuals' perceptions of science, politics, religion, and reality more generally. He has studied this general question in the context of atheist social movements, polarization in political media, and attitudes toward science and scientists. Currently he is working on several projects related to political media diets and susceptibility to political disinformation.  
+Marcus Mann is an assistant professor of sociology at Purdue University. His overarching interest is in how different and sometimes conflicting cultural knowledge authorities affect individuals' perceptions of science, politics, religion, and reality more generally. He has studied this general question in the context of atheist social movements, polarization in political media, and attitudes toward science and scientists. Currently he is working on several projects related to political media diets and susceptibility to political disinformation and extremism.  
