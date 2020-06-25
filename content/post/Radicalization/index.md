@@ -28,6 +28,5 @@ image:
 projects: []
 ---
 
-
-
+{{< figure library="true" src="ds_sankey.html" title="A caption" lightbox="true" >}}
 
