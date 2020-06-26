@@ -18,7 +18,7 @@ draft: false
 image: 
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: falsem
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -28,5 +28,5 @@ image:
 projects: []
 ---
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In light of this news, it just so happens that I have been playing with some data on pathways of far-right radicalization the past couple days. So what does deplatforming Gavin McInnes mean in terms of peoples&#39; pathways to the alt-right? <a href="https://t.co/ZpvXjbhRSn">https://t.co/ZpvXjbhRSn</a></p>&mdash; Marcus Mann (@MannMarcus) <a href="https://twitter.com/MannMarcus/status/1275498334992678912?ref_src=twsrc%5Etfw">June 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
