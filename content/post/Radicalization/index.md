@@ -32,5 +32,5 @@ projects: []
 
 
 ```{r, echo=FALSE}
-htmltools::includeHTML("ds_sankey.html")
+htmltools::tags$iframe(title = "My embedded document", src = "ds_sankey.html")
 ```
