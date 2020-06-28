@@ -1,5 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
+library(htmltools)
 
 title: "Sankey Networks of Far-right Radicalization Pathways"
 subtitle: "Twitter thread"
