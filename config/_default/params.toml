@@ -164,7 +164,7 @@ link_authors = true
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = []
+plugins_js  = ["d3.min","htmlwidgets","sankey","sankeyNetwork"]
 
 # Available address formats.
 [address_formats]
