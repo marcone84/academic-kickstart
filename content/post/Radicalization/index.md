@@ -30,10 +30,12 @@ Recently, I was given the chance to explore an online forum where subscribers to
 
 Now, these data are by now means representative of broader pathways to far-right beliefs. There are only 44 testimonies shared here and there are obvious selection issues given that this is only one website, these are only the posters on that website, and the website itself is a very specific brand of far-right beliefs (i.e. Nazism). However, there are notable consistencies between accounts in these data and accounts themselves were sincere and often detailed. 
 
-So without further adieu, here are the interactive Sankey Networks that they render. The first network is using the full data and the second is using only the sources that were mentioned more than once. All testimonies in the first network end with arriving at one of two neo-nazi sites: The Daily Stormer or The Right Stuff. I grouped these together because 1) all testimonies ended with one of these and 2) it is generally agreed that these sites, though not always on the same page, represent some termination point of an online radicalization process. In the second graph, since I eliminated all sources that were mentioned only once, this also eliminated sources that were connected to The Daily Stormer or The Right Stuff. Therefore, we see paths that don't end this way, although all connections represent reported paths at  some point in this process. Most interesting about this graph is that three major pathways emerge: an "alt-light" to "alt-right" pathway (e.g. Joe Rogan -> Gavin McInnese), a Libertarian pathway (e.g. Ron Paul -> Pat Buchanan), and an atheist/skeptic pathway (e.g. Sam Harris -> Ben Shapiro).  
+Below are the interactive Sankey Networks that these accounts of radicalization render. You can scroll over pathways or nodes to highlight exactly what nodes are connected in these testimonies.
+
+The first network is using the full data and the second is using only the sources that were mentioned more than once. All testimonies in the first network end with arriving at one of two neo-nazi sites: The Daily Stormer or The Right Stuff. I grouped these together because 1) all testimonies ended with one of these and 2) it is generally agreed that these sites, though not always on the same page, represent some termination point of an online radicalization process. In the second graph, since I eliminated all sources that were mentioned only once, this also eliminated sources that were connected to The Daily Stormer or The Right Stuff. Therefore, we see paths that don't end this way, although all connections represent reported paths at  some point in this process. Most interesting about this graph is that three major pathways emerge: an "alt-light" to "alt-right" pathway (e.g. Joe Rogan -> Gavin McInnese), a Libertarian pathway (e.g. Ron Paul -> Pat Buchanan), and an atheist/skeptic pathway (e.g. Sam Harris -> Ben Shapiro).  
 
 
-## Sankey Network of all Radicalization Pathways Reported
+## Interactive Sankey Network of all Radicalization Pathways Reported
 <div id="htmlwidget_container">
   <div id="htmlwidget-3611dc89ad4d4a488973" style="width:720px;height:500px;" class="sankeyNetwork html-widget"></div>
 </div>
@@ -41,7 +43,7 @@ So without further adieu, here are the interactive Sankey Networks that they ren
 <script type="application/htmlwidget-sizing" data-for="htmlwidget-3611dc89ad4d4a488973">{"viewer":{"width":450,"height":350,"padding":10,"fill":true},"browser":{"width":1440,"height":1000,"padding":10,"fill":false}}</script>
 
 
-## Sankey Network of Radicalization Pathways with only Sources Mentioned More than Once
+## Interactive Sankey Network of Radicalization Pathways with only Sources Mentioned More than Once
 <div id="htmlwidget_container">
   <div id="htmlwidget-ba1bf9adb44b635468ff" style="width:960px;height:500px;" class="sankeyNetwork html-widget"></div>
 </div>
