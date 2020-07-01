@@ -43,7 +43,7 @@ The first network is using the full data and the second is using only the source
 <script type="application/htmlwidget-sizing" data-for="htmlwidget-3611dc89ad4d4a488973">{"viewer":{"width":450,"height":350,"padding":10,"fill":true},"browser":{"width":1440,"height":1000,"padding":10,"fill":false}}</script>
 
 
-## Interactive Sankey Network of Radicalization Pathways with only Sources Mentioned More than Once
+## Interactive Sankey Network of Radicalization Pathways with Sources Mentioned More than Once
 <div id="htmlwidget_container">
   <div id="htmlwidget-ba1bf9adb44b635468ff" style="width:960px;height:500px;" class="sankeyNetwork html-widget"></div>
 </div>
