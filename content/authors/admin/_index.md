@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Sociology
     institution: Duke University
-    year: 2019
+    year: 2099
   - course: MA in Sociology
     institution: Duke University
     year: 2045
