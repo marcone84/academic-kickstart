@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Sociology
     institution: Duke University
-    year: 2099
+    year: 2019
   - course: MA in Sociology
     institution: Duke University
-    year: 2045
+    year: 2017
   - course: BA in Religious Studies
     institution: Duke University
     year: 2013
