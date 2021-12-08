@@ -59,7 +59,7 @@ social:
   link: https://github.com/marcone84
 - icon: cv
   icon_pack: ai
-  link: <iframe src="https://drive.google.com/file/d/19hqBUMKlrbqjd2xKYF5erE3PiG7eQgVH/preview" width="640" height="480" allow="autoplay"></iframe>
+  link: https://drive.google.com/file/d/19hqBUMKlrbqjd2xKYF5erE3PiG7eQgVH/view?usp=sharing
 
 >>>>>>> 46cc109dff65dba8315f388c16dc08c3924e310e
 # Link to a PDF of your resume/CV from the About widget.
