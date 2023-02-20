@@ -33,7 +33,7 @@ education:
   - course: MA in Sociology
     institution: Duke University
     year: 2017
-  - course: BA in Religious Studies
+  - course: MA in Religious Studies
     institution: Duke University
     year: 2013
   - course: BA in English Studies
