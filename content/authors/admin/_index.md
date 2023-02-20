@@ -30,10 +30,10 @@ education:
   - course: PhD in Sociology
     institution: Duke University
     year: 2019
-  - course: MA in Sociology
+  - course: test in Sociology
     institution: Duke University
     year: 2017
-  - course: MA in Religious Studies
+  - course: test in Religious Studies
     institution: Duke University
     year: 2013
   - course: BA in English Studies
