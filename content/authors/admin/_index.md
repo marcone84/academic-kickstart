@@ -32,10 +32,10 @@ education:
     year: 2019
   - course: MA in Sociology
     institution: Duke University
-    year: 2045
+    year: 2017
   - course: MA in Religious Studies
-    institution: Duke University
     year: 2013
+  - course: test in Religious Studies
   - course: BA in English Studies
     institution: University of Massachusetts - Amherst
     year: 2008
@@ -59,7 +59,7 @@ social:
   link: https://github.com/marcone84
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1GPAbV874oNhlRv-ssfEdSP-_GVa7_GCm/view?usp=sharing
+  link: https://drive.google.com/file/d/19hqBUMKlrbqjd2xKYF5erE3PiG7eQgVH/view?usp=sharing
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

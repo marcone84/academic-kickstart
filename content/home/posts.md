@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Current Work"
-subtitle = "Notes, data viz, and other miscellany"
+title = "Current Work and Teaching"
+subtitle = "Courses, notes, data viz, and other miscellany"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
