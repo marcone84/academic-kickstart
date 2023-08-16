@@ -35,7 +35,6 @@ education:
     year: 2017
   - course: MA in Religious Studies
     year: 2013
-  - course: test in Religious Studies
   - course: BA in English Studies
     institution: University of Massachusetts - Amherst
     year: 2008
