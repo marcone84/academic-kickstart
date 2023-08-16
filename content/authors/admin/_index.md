@@ -34,6 +34,7 @@ education:
     institution: Duke University
     year: 2017
   - course: MA in Religious Studies
+    institution: Duke University
     year: 2013
   - course: BA in English Studies
     institution: University of Massachusetts - Amherst
