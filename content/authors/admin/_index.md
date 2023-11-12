@@ -59,7 +59,7 @@ social:
   link: https://github.com/marcone84
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1-BPvbLHm_RN-CKRUzMBrGUvc4e8oChOs/view?usp=sharing
+  link: https://drive.google.com/file/d/1oqmTGcUFqDnOtZ8poTXVIHJCatu8jBDA/view?usp=sharing
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
