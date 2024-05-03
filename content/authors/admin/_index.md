@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Sociology
+role: Astant Professor of Sociology
 
 # Organizations/Affiliations
 organizations:
