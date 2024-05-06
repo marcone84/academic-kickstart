@@ -48,7 +48,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:mannml@purdue.edu
-- icon: bluesky
+- icon: icon="['fab', 'bluesky']"
   icon_pack: fab
   link: https://bsky.app/profile/drmann.bsky.social
 - icon: google-scholar
