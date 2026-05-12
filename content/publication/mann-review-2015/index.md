@@ -3,7 +3,8 @@ title: "Review Essay on The New Atheist Novel: Fiction, Philosophy, and Polemic 
 date: 2015-01-01
 publishDate: 2020-02-03T21:37:00.907850Z
 authors: ["Marcus Mann"]
-publication_types: ["2"]
+publication_types:
+- "2"
 abstract: ""
 featured: false
 publication: "*Science, Religion & Culture*"
