@@ -21,7 +21,7 @@ organizations:
 
 
 interests:
-- Political Sociology
+- Political Sociologyy
 - Sociology of Knowledge
 - Computational Social Science
 
