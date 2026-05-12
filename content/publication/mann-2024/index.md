@@ -8,4 +8,5 @@ abstract: ""
 featured: false
 publication: "*Poetics*"
 volume: "104"
+doi: "10.1016/j.poetic.2024.101899"
 ---

@@ -10,4 +10,5 @@ publication: "*Sociological Theory*"
 volume: "43"
 number: "2"
 pages: "115-140"
+doi: "10.1177/07352751251326951"
 ---
