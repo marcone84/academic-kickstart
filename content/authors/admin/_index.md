@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Marcus L Mann
+name: Marcus Mann
 
 # Username (this should match the folder name)
 authors:
@@ -21,7 +21,7 @@ organizations:
 
 
 interests:
-- Political Sociologyy
+- Political Sociology
 - Sociology of Knowledge
 - Computational Social Science
 
