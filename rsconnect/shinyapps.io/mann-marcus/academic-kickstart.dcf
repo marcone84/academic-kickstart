@@ -1,0 +1,12 @@
+name: academic-kickstart
+title:
+username: mann-marcus
+account: mann-marcus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17446030
+bundleId: 12256641
+url: https://mann-marcus.shinyapps.io/academic-kickstart/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
